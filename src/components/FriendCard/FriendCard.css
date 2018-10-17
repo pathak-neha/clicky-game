@@ -1,0 +1,30 @@
+.card {
+  background: whitesmoke;
+  padding: 4px;
+  height: 250px;
+  margin: 1rem;
+  position: relative;
+  width: 250px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background: #98c0e7;
+}
+
+img {
+  height: 100%
+}
+
+.card:hover {
+  -webkit-filter: drop-shadow(5px 5px 5px #222 );
+  filter: drop-shadow(5px 5px 5px #222);
+}
+
+.card:active {
+  -webkit-filter: drop-shadow(10px 10px 10px #222 );
+  filter: drop-shadow(10px 10px 10px #222);
+}
