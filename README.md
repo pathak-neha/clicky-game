@@ -7,6 +7,5 @@ To begin the game, click on a card. But be careful! Remember which character you
 - To win, click on each card _only once_.
 - Click on a card more than one time, and your score resets.
 
-*_The Technical Details_*
-- This app uses [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/ "Bootstrap Docs").
-- It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "React Docs").
+*_The Technical Details_*  
+This app uses [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/ "Bootstrap Docs") for its ability to add awesome mobile responsiveness very quickly, and it was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "React Docs").
